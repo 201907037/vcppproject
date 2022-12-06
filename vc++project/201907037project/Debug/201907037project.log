@@ -1,0 +1,9 @@
+﻿  201907037project.cpp
+H:\vc++project\201907037project\201907037project.cpp(143,11): warning C4101: 's' :참조되지 않은 지역 변수입니다.
+H:\vc++project\201907037project\201907037project.cpp(257,65): warning C4805: '==': 연산에 'bool' 형식과 'BOOL' 형식을 함께 사용하는 것은 안전하지 않습니다.
+H:\vc++project\201907037project\201907037project.cpp(268,66): warning C4805: '==': 연산에 'bool' 형식과 'BOOL' 형식을 함께 사용하는 것은 안전하지 않습니다.
+H:\vc++project\201907037project\201907037project.cpp(363,54): warning C4805: '==': 연산에 'bool' 형식과 'BOOL' 형식을 함께 사용하는 것은 안전하지 않습니다.
+H:\vc++project\201907037project\201907037project.cpp(387,53): warning C4805: '==': 연산에 'bool' 형식과 'BOOL' 형식을 함께 사용하는 것은 안전하지 않습니다.
+H:\vc++project\201907037project\201907037project.cpp(399,55): warning C4805: '==': 연산에 'bool' 형식과 'BOOL' 형식을 함께 사용하는 것은 안전하지 않습니다.
+H:\vc++project\201907037project\201907037project.cpp(449,19): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  201907037project.vcxproj -> H:\vc++project\201907037project\Debug\201907037project.exe
